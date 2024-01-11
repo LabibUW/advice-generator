@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.3028e333.css",
+    "main.js": "/react-gh-pages/static/js/main.b1b47c7e.js",
+    "static/media/seattle.jpg": "/react-gh-pages/static/media/seattle.8e0fa2dc862111f6001c.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.3028e333.css.map": "/react-gh-pages/static/css/main.3028e333.css.map",
+    "main.b1b47c7e.js.map": "/react-gh-pages/static/js/main.b1b47c7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3028e333.css",
+    "static/js/main.b1b47c7e.js"
+  ]
+}
