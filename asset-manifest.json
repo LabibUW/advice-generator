@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/advice-generator/static/css/main.a647466e.css",
+    "main.css": "/advice-generator/static/css/main.e8e6bb6a.css",
     "main.js": "/advice-generator/static/js/main.b1b47c7e.js",
-    "static/media/seattle.jpg": "/advice-generator/static/media/seattle.8e0fa2dc862111f6001c.jpg",
+    "static/media/seattle.jpg": "/advice-generator/static/media/seattle.4b9b59e21e99743407b3.jpg",
     "index.html": "/advice-generator/index.html",
-    "main.a647466e.css.map": "/advice-generator/static/css/main.a647466e.css.map",
+    "main.e8e6bb6a.css.map": "/advice-generator/static/css/main.e8e6bb6a.css.map",
     "main.b1b47c7e.js.map": "/advice-generator/static/js/main.b1b47c7e.js.map"
   },
   "entrypoints": [
-    "static/css/main.a647466e.css",
+    "static/css/main.e8e6bb6a.css",
     "static/js/main.b1b47c7e.js"
   ]
 }
